@@ -1,0 +1,18 @@
+#d1{
+    position: absolute;
+    width: 395px;
+    height: 300px;
+    top: 800px;
+    margin-left: 750px;
+    border: 2px solid gold;
+}
+
+#f1{
+    width: 15%;
+    height: 90px;
+    padding: 10px;
+    background-color: #d0e2bc;
+    position: absolute;
+    top: 990px;
+    margin-left: 1170px;
+  }

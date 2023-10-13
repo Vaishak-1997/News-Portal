@@ -1,0 +1,53 @@
+#i1{
+    background-image: url("4497979-white-backgrounds.jpg");
+    width: 100%;
+    position: fixed;
+}
+
+#h1{
+    bottom: 650px;
+    right: 1200px;
+    color: white;
+    font-size: 22px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position:fixed;
+    text-align: center;
+    border: 1px solid blue;
+    background-color: #036;
+    
+}
+
+#h2{
+    bottom: 650px;
+    right: 750px;
+    color: white;
+    font-size: 22px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position:fixed;
+    text-align: center;
+    border: 1px solid blue;
+    background-color: #036;
+}
+
+#h3{
+    bottom: 650px;
+    right: 200px;
+    color: white;
+    font-size: 22px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position:fixed;
+    text-align: center;
+    border: 1px solid blue;
+    background-color: #036;
+}
+
+#i2{
+    background-image: url("Fox_News_Channel_logo.svg.webp");
+    width: 96px;
+    height: 96px;
+    position: fixed;
+    margin-top: 20px;
+    right: 1350px;
+    border: 1px solid blue;
+}
+

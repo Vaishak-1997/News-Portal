@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+</head>
+<body>
+    <img src="Screenshot 2023-04-06 142012.png" alt="imgerr" width="100%">
+    <h1 align="center">Contact Us</h1>
+    <form align="center" method="get" enctype="application/x-www-form-urlencoded" action="teams.html">
+        <p>
+            <label>Name
+            <input type="text" name="customer_name" required>
+            </label> 
+            </p>
+        <p>
+            <label>Phone 
+            <input type="tel" name="phone_number">
+            </label>
+            </p>
+
+            <p>
+                <label>Type Of Communication
+                <select id="Communication Type" name="Communication Type">
+                <option value="" selected="selected">Select One</option>
+                <option value="office" >Sales</option>
+                <option value="town_hall" >Service</option>
+                <option value="telepathy" >Enquiry</option>
+                <option value="telepathy" >Advertaisement</option>
+                <option value="telepathy" >Complaint</option>
+                </select>
+                </label> 
+                </p>
+
+                <p>
+                    <label>Description  
+                    <textarea name="comments" maxlength="500"></textarea>
+                    </label>
+                </p>
+
+                <p><button>Submit</button></p>
+    </form>
+</body>
+</html>

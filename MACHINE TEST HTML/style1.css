@@ -1,0 +1,50 @@
+#i1{
+    background-image: url("photo-1566247466203-2251470a5a22.jpg");
+    width: 100%;
+    position: fixed;
+}
+
+#s1{
+    background-image: url("breaking-news-logo-vector-banner-white-text-image-176643261.jpg");
+    width: 1600px;
+    position: relative;
+}
+
+#s164{
+    position:absolute;
+    width: 409px;
+    height: 450px;
+    bottom: 100px;
+    left: 75px;
+    border: 2px solid whitesmoke;
+}
+
+#h1{
+    top: 187px;;
+    bottom: 0;
+    color: black;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position:absolute;
+    margin-left: 550px; 
+}
+
+#p1{
+    top: 240px;;
+    bottom: 0;
+    color: black;
+    font-size: 13px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position:absolute;
+    margin-left: 0px; 
+}
+
+#h3{
+    top: 285px;;
+    bottom: 0;
+    font-size: 14px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position:absolute;
+    margin-left: 1240px; 
+}
